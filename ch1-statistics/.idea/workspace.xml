@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bc9a956-3301-4815-98cb-e836335cf5cd" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="examples.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="380" column="0" lean-forward="true" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ch1_statistics/core.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/ch1_statistics/data.clj" />
+        <option value="$PROJECT_DIR$/src/ch1_statistics/examples.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="270" />
+    <option name="y" value="23" />
+    <option name="width" value="1170" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ch1-statistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch1-statistics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch1-statistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch1-statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch1-statistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch1-statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ch1-statistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch1-statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1_statistics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="cursive.last.file.extension./Users/peter/dev/Clojure/learn/data-science/cfds/cfds-workbook/ch1-statistics/src" value="clj" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ReplState" timestamp="1512140691348">{:repl-history {:ide [], :local [{:command &quot;(number? 1)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(number? [0 1])&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(not-any? number? [0 1])&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(ch1-statistics.examples/add-con-id)&quot;, :offset 36, :ns &quot;user&quot;} {:command &quot;(ch1-statistics.examples/add-con-ld)&quot;, :offset 36, :ns &quot;user&quot;} {:command &quot;(defn data-types-in-col\n  [col-name]\n  (-&gt;&gt; data/uk-election-data-2010\n      (icore/$ col-name)\n      (frequencies)))&quot;, :offset 117, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn data-types-in-col\n  [col-name]\n  (-&gt;&gt; data/uk-election-data-2010\n      (icore/$ col-name)\n      (map type) \n      (frequencies)))&quot;, :offset 135, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(ch1-statistics.examples/data-types-in-col \&quot;Con\&quot;)&quot;, :offset 49, :ns &quot;user&quot;} {:command &quot;(ch1-statistics.examples/data-types-in-col \&quot;Ld\&quot;)&quot;, :offset 48, :ns &quot;user&quot;} {:command &quot;(ch1-statistics.examples/data-types-in-col \&quot;LD\&quot;)&quot;, :offset 48, :ns &quot;user&quot;} {:command &quot;(defn data-where-con-ld-not-nums\n  []\n  (-&gt;&gt; data/uk-election-data-2010\n       (icore/$where #(not-any? number? [(% \&quot;Con\&quot;) (% \&quot;LD\&quot;)]))\n       (icore/$ [:Region :Electorate :Con :LD])))&quot;, :offset 184, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(ch1-statistics.examples/uk-2010-column-names)&quot;, :offset 46, :ns &quot;user&quot;} {:command &quot;(defn data-where-con-ld-not-nums\n  []\n  (-&gt;&gt; data/uk-election-data-2010\n       (icore/$where #(not-any? number? [(% \&quot;Con\&quot;) (% \&quot;LD\&quot;)]))\n       (icore/$ [:Region :Electorate :Con :LD :UKIP])))&quot;, :offset 190, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn data-where-con-ld-nil\n  []\n  (-&gt;&gt; data/uk-election-data-2010\n       (icore/$where #(not-any? number? [(% \&quot;Con\&quot;) (% \&quot;LD\&quot;)]))\n       (icore/$ [:Region :Electorate :Con :LD :Lab :UKIP])))&quot;, :offset 190, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(ch1-statistics.examples/data-where-con-ld-not-nums)&quot;, :offset 52, :ns &quot;user&quot;} {:command &quot;(ch1-statistics.examples/data-where-con-ld-nil)&quot;, :offset 47, :ns &quot;user&quot;} {:command &quot;(ns ch1-statistics.data\n  (:require [clojure.java.io :as io]\n            [incanter.core :as icore]\n            [incanter.excel :as ixl]))&quot;, :offset 137, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :uk [_]\n  (-&gt; (io/resource \&quot;UK2010.xls\&quot;)\n      (str)\n      (ixl/read-xls)))&quot;, :offset 96, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(ch1-statistics.data/load-data :uk-victors)&quot;, :offset 43, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (ch1-statistics.data/load-data :uk-victors))&quot;, :offset 49, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (ch1-statistics.data/load-data :uk-victors) (take 3))&quot;, :offset 58, :ns &quot;user&quot;} {:command &quot;(defn uk-2010-column-names\n  \&quot;Return all column names from the specified\n   tabular data set\&quot;\n  []\n  (icore/col-names data/uk-election-data-2010))&quot;, :offset 146, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn uk-2010-column-data\n  \&quot;Get data for specified column name\&quot;\n  [col-name]\n  (icore/$ col-name data/uk-election-data-2010))&quot;, :offset 126, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn mean\n  \&quot;Or average. he mean is the average of\n   a set of numbers. Determined by adding\n   them together and dividing by how many\n   numbers are present\&quot;  [xs]\n  (/ (reduce + xs) (count xs)))&quot;, :offset 197, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn median\n  \&quot;The median is the middle value between\n   the smallest and largest of a set of\n   numbers.\&quot;\n  [xs]\n  (let [n (count xs)\n        mid (int (/ n 2))\n        sorted (sort xs)]\n    (if (odd? n)\n      (nth sorted mid)\n      (-&gt;&gt; sorted\n           (drop (dec mid))\n           (take 2)\n           (mean)))))&quot;, :offset 315, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn variance\n  \&quot;Sums up the square of the deviation of\n   values from the mean and creates the mean.\&quot;\n  [xs]\n  (let [xm (mean xs)\n        n (count xs)\n        square-deviation (fn [x]\n                           (icore/sq (- x xm)))]\n    (-&gt; (map square-deviation xs) mean)))&quot;, :offset 276, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn standard-deviation\n  \&quot;variance squares the deviation before\n   taking the mean. Standard deviattion is the\n   square root\&quot;\n  [xs]\n  (-&gt; xs variance icore/sqrt))&quot;, :offset 166, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn quantile\n  [q xs]\n  (let [n (dec (count xs))\n        i (-&gt; (* n q)\n              (+ 1/2)\n              (int))]\n    (nth (sort xs) i)))&quot;, :offset 140, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn five-number-summary\n  \&quot;Calculate five number summary of specified list\&quot;\n  [xs]\n  (let [fq (fn [qn]\n             (quantile qn xs))]\n    (map fq [0 1/5 1/2 3/4 1])))&quot;, :offset 169, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn bin\n  [n-bins xs]\n  (let [minx (apply min xs)\n        maxx (apply max xs)\n        rangex (- maxx minx)\n        bf (fn [x]\n             (-&gt; x\n                 (- minx)\n                 (/ rangex)\n                 (* n-bins)\n                 (int)\n                 (min (dec n-bins))))]\n    (map bf xs)))&quot;, :offset 308, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn normal-dist\n  [mean sd]\n  (let [ds (idistributions/normal-distribution mean sd)]\n    (repeatedly #(idistributions/draw ds))))&quot;, :offset 131, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn skewed-normal-dist\n  [mean sd]\n  (let [ds (idistributions/normal-distribution mean sd)]\n    (-&gt;&gt; (repeatedly #(idistributions/draw ds))\n         (partition 13)\n         (map (partial apply max)))))&quot;, :offset 203, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn add-con-ld\n  []\n  (-&gt;&gt; data/uk-election-data-2010\n       (icore/add-derived-column :victors\n                                [:Con :LD]\n                                (fn [c d] (+ c d)))))&quot;, :offset 194, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn data-where-con-ld-nil\n  []\n  (-&gt;&gt; data/uk-election-data-2010\n       (icore/$where #(not-any? number? [(% \&quot;Con\&quot;) (% \&quot;LD\&quot;)]))\n       (icore/$ [:Region :Electorate :Con :LD :Lab])))&quot;, :offset 184, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victor-shares\n  \&quot;Histogram of the share victors have (:Con + :LD) over total votes\&quot;\n  []\n  (-&gt; (data/load-data :victors-share)\n      (icharts/histogram :nbins 20\n                         :x-label \&quot;UK victors share\&quot;)\n      (icore/view)))&quot;, :offset 248, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn qq-plot-vitor-shares\n  \&quot;QQ-plot of the share victors have (:Con + :LD) over total votes\&quot;\n  []\n  (-&gt;&gt; (data/load-data :victors-share)\n       (icore/$ :victors-share)\n       (icharts/qq-plot)\n       (icore/view)))&quot;, :offset 217, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victor-shares\n  \&quot;Histogram of the share victors have (:Con + :LD) over total votes\&quot;\n  []\n  (-&gt; (data/load-data :uk-victors)\n      (icharts/histogram :nbins 20\n                         :x-label \&quot;UK victors share\&quot;)\n      (icore/view)))&quot;, :offset 245, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn qq-plot-vitor-shares\n  \&quot;QQ-plot of the share victors have (:Con + :LD) over total votes\&quot;\n  []\n  (-&gt;&gt; (data/load-data :uk-victors)\n       (icore/$ :victors-share)\n       (icharts/qq-plot)\n       (icore/view)))&quot;, :offset 214, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victor-shares\n  \&quot;Histogram of the share victors have (:Con + :LD) over total votes\&quot;\n  []\n  (-&gt; (data/load-data :uk-victors)\n      (icore/$ :victors-share)\n      (icharts/histogram :nbins 20\n                         :x-label \&quot;UK victors share\&quot;)\n      (icore/view)))&quot;, :offset 276, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victor-shares\n  \&quot;Histogram of the share victors have (:Con + :LD) over total votes\&quot;\n  []\n  (let [dt (-&gt;&gt; (data/load-data :uk-victors) \n                (icore/$ :victors-share))]\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;UK victors share\&quot;)\n        (icore/view))))&quot;, :offset 317, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victor-shares\n  \&quot;Histogram of the share victors have (:Con + :LD) over total votes\&quot;\n  []\n  (let [dt (-&gt;&gt; (data/load-data :uk-victors)\n                (icore/$ :victors-share))]\n    (-&gt; dt\n        (icharts/histogram :nbins 10\n                           :x-label \&quot;UK victors share\&quot;)\n        (icore/view))))&quot;, :offset 316, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(icharts/histogram :nbins 50\n                           :x-label \&quot;UK victors share\&quot;)&quot;, :offset 84, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victor-shares\n  \&quot;Histogram of the share victors have (:Con + :LD) over total votes\&quot;\n  []\n  (let [dt (-&gt;&gt; (data/load-data :uk-victors)\n                (icore/$ :victors-share))]\n    (-&gt; dt\n        (icharts/histogram :nbins 50\n                           :x-label \&quot;UK victors share\&quot;)\n        (icore/view))))&quot;, :offset 316, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(ch1-statistics.examples/histo-victor-shares)&quot;, :offset 45, :ns &quot;user&quot;} {:command &quot;(ch1-statistics.examples/qq-plot-vitor-shares)&quot;, :offset 46, :ns &quot;user&quot;} {:command &quot;(defmethod load-data :ru [_]\n  (let [ru1 (-&gt; (io/resource \&quot;Russia2011_10f2.xls\&quot;\n                 (str)\n                 (ixls/read-xls)))\n        ru2 (-&gt; (io/resource \&quot;Russia201120f2.xls\&quot;)\n                (str)\n                (ixls/read-xls))]))&quot;, :offset 246, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :uk-victors [_]\n  (-&gt;&gt; (load-data :uk-scrubbed)\n       (icore/$where {:Con {:$fn number?} :LD {:$fn number?}})\n       (icore/add-derived-column :victors [:Con :LD] (fn [cn ld] (+ cn ld)))\n       (icore/add-derived-column :victors-share [:victors :Votes] (fn [vc vt] (/ vc vt)))\n       (icore/add-derived-column :turnout [:Votes :Electorate] (fn [vt el] (/ vt el)))))&quot;, :offset 387, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :ru [_]\n  (let [ru1 (-&gt; (io/resource \&quot;Russia2011_10f2.xls\&quot;\n                 (str)\n                 (ixls/read-xls)))\n        ru2 (-&gt; (io/resource \&quot;Russia201120f2.xls\&quot;)\n                (str)\n                (ixls/read-xls))]\n    (icore/conj-rows ru1 ru2)))&quot;, :offset 276, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :ru [_]\n  (let [ru1 (-&gt; (io/resource \&quot;Russia2011_1of2.xls\&quot;\n                 (str)\n                 (ixls/read-xls)))\n        ru2 (-&gt; (io/resource \&quot;Russia2011_20f2.xls\&quot;)\n                (str)\n                (ixls/read-xls))]\n    (icore/conj-rows ru1 ru2)))&quot;, :offset 277, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :ru [_]\n  (let [ru1 (-&gt; (io/resource \&quot;Russia2011_1of2.xls\&quot;\n                 (str)\n                 (ixls/read-xls)))\n        ru2 (-&gt; (io/resource \&quot;Russia2011_2of2.xls\&quot;)\n                (str)\n                (ixls/read-xls))]\n    (icore/conj-rows ru1 ru2)))&quot;, :offset 277, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :ru [_]\n  (let [ru1 (-&gt; (io/resource \&quot;Russia2011_1of2.xls\&quot;) \n                (str) \n                (ixls/read-xls))\n        ru2 (-&gt; (io/resource \&quot;Russia2011_2of2.xls\&quot;)\n                (str)\n                (ixls/read-xls))]\n    (icore/conj-rows ru1 ru2)))&quot;, :offset 277, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :uk [_]\n  (-&gt; (io/resource \&quot;UK2010.xls\&quot;)\n      (str)\n      (ixls/read-xls)))&quot;, :offset 97, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(ch1-statistics.data/load-data :ru)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (ch1-statistics.data/load-data :ru)\n     (incanter.core/col-names)\n     (take 2))&quot;, :offset 86, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; (ch1-statistics.data/load-data :ru)\n     (incanter.core/col-names)\n     (take 5))&quot;, :offset 86, :ns &quot;user&quot;} {:command &quot;(defmethod load-data :uk-scrubbed [_]\n  (-&gt;&gt; (load-data :uk)\n       (icore/$where {\&quot;Election Year\&quot; {:$ne nil}})))&quot;, :offset 113, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(-&gt;&gt; (ch1-statistics.data/load-data :ru)\n     (take 5))&quot;, :offset 55, :ns &quot;user&quot;} {:command &quot;(def ru-election-data-2010\n  (load-data :ru))&quot;, :offset 45, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-election-data-2010\n     (incanter.core/col-names)\n     (take 5))&quot;, :offset 92, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-election-data-2010\n     (incanter.core/col-names)\n     (take 10))&quot;, :offset 93, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-election-data-2010\n     (incanter.core/col-names)\n     (take 15))&quot;, :offset 93, :ns &quot;user&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; (data/load-data :ru-victors)\n                (icore/$ :victors-share))]\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;))))&quot;, :offset 231, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-election-data-2010\n                (icore/$ :victors-share))]\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;))))&quot;, :offset 229, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(-&gt; ch1-statistics.data/ru-election-data-2010\n    (incanter.core/col-names)\n    (take 5))&quot;, :offset 89, :ns &quot;user&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$ :victors-share))]\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;))))&quot;, :offset 223, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(ns ch1-statistics.data\n  (:require [clojure.java.io :as io]\n            [incanter.core :as icore]\n            [incanter.excel :as ixls]))&quot;, :offset 138, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmulti load-data identity)&quot;, :offset 29, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :ru [_]\n  (let [ru1 (-&gt; (io/resource \&quot;Russia2011_1of2.xls\&quot;)\n                (str)\n                (ixls/read-xls))\n        ru2 (-&gt; (io/resource \&quot;Russia2011_2of2.xls\&quot;)\n                (str)\n                (ixls/read-xls))]\n    (icore/conj-rows ru1 ru2)))&quot;, :offset 275, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(defmethod load-data :ru-victors [_]\n  (-&gt;&gt; (load-data :ru)\n       (icore/rename-cols {\&quot;Number of voters included in voters list\&quot; :electorate\n                           \&quot;Number of invalid ballots\&quot; :valid-ballots\n                           \&quot;United Russia\&quot; :victors})\n       (icore/add-derived-column :victors-share\n                                 [:victors :valid-ballots]\n                                 icore/safe-div)\n       (icore/add-derived-column :turnout\n                                 [:valid-ballots :electorate]\n                                 /)))&quot;, :offset 563, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(+ 1 2)&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(def ru-victors-2010\n  (load-data :ru-victors))&quot;, :offset 47, :ns &quot;ch1-statistics.data&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-election-data-2010\n    (incanter.core/$ :electorate)\n    (take 5))&quot;, :offset 94, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-election-data-2010\n    (incanter.core/col-names)\n    (take 5))&quot;, :offset 90, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n    (incanter.core/col-names)\n    (take 5))&quot;, :offset 84, :ns &quot;user&quot;} {:command &quot;(ns ch1-statistics.examples\n  (:require [incanter.core :as icore]\n            [incanter.stats :as istats]\n            [incanter.charts :as icharts]\n            [incanter.distributions :as idistributions]\n            [ch1-statistics.data :as data]))&quot;, :offset 248, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$ :victors-share))]\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;)\n        (icharts/view))))&quot;, :offset 246, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$ :victors-share))]\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;)\n        (icore/view))))&quot;, :offset 244, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n    (incanter.core/$ :electorate)\n    (take 5))&quot;, :offset 88, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n    (incanter.core/col-names)\n    (take 10))&quot;, :offset 85, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n    (incanter.core/col-names)\n    (take 20))&quot;, :offset 85, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n    (incanter.core/$ :victors-share)\n    (take 10))&quot;, :offset 92, :ns &quot;user&quot;} {:command &quot;(number? Infinity)&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;Double/NaN&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;(number? NaN)&quot;, :offset 13, :ns &quot;user&quot;} {:command &quot;(number? Dounle/NaN)&quot;, :offset 20, :ns &quot;user&quot;} {:command &quot;(number? Double/NaN)&quot;, :offset 20, :ns &quot;user&quot;} {:command &quot;(Double/isInfinite? 10) &quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$ :victors-share)\n                (icore/$where {:victors-share {:$fn number?}}))]\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;)\n        (icore/view))))&quot;, :offset 307, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$where {:victors-share {:$ne nil}\n                               :victors-share {:$fn number?}})\n                (icore/$ :victors-share))]\n\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;)\n        (icore/view))))&quot;, :offset 365, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$where {:victors-share {:$ne nil\n                                               :$fn number?}})\n                \n                (icore/$ :victors-share))]\n\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;)\n        (icore/view))))&quot;, :offset 381, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n     (incanter.core/$where {:victors-share :$fn number?})\n     (take 10))&quot;, :offset 114, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n     (incanter.core/$where {:victors-share {:$fn number?}})\n     (take 10))&quot;, :offset 116, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n     (incanter.core/$where {:victors-share {:$ne number?}})\n     (take 10))&quot;, :offset 40} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n     (incanter.core/$where {:victors-share {:$ne Double/NaN}})\n     (take 10))&quot;, :offset 119, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n     (incanter.core/$where {:victors-share {:$ne Double/NaN}})\n     (incanter.core/$ :victors-share)\n     (take 10))&quot;, :offset 157, :ns &quot;user&quot;} {:command &quot;(-&gt;&gt; ch1-statistics.data/ru-victors-2010\n     (incanter.core/$where {:victors-share {:$ne Double/POSITIVE_INFINITY}})\n     (incanter.core/$ :victors-share)\n     (take 10))&quot;, :offset 171, :ns &quot;user&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$where {:victors-share {:$ne Double/POSITIVE_INFINITY}})\n                (icore/$ :victors-share))]\n\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;)\n        (icore/view))))&quot;, :offset 325, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(ch1-statistics.examples/histo-victors-shares-ru)&quot;, :offset 49, :ns &quot;user&quot;} {:command &quot;(defn histo-victors-shares-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$ :turnout))]\n\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;)\n        (icore/view))))&quot;, :offset 239, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(defn histo-victors-turnout-ru\n  []\n  (let [dt (-&gt;&gt; data/ru-victors-2010\n                (icore/$ :turnout))]\n\n    (-&gt; dt\n        (icharts/histogram :nbins 20\n                           :x-label \&quot;Victors share (RU)\&quot;)\n        (icore/view))))&quot;, :offset 240, :ns &quot;ch1-statistics.examples&quot;} {:command &quot;(ch1-statistics.examples/histo-victors-turnout-ru)&quot;, :offset 50, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure REPL.LocalREPL">
+    <configuration name="LocalREPL" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="0" />
+      <module name="ch1-statistics" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="LocalREPL" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="0" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="LocalREPL" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bc9a956-3301-4815-98cb-e836335cf5cd" name="Default" comment="" />
+      <created>1508586176242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508586176242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="270" y="23" width="1170" height="873" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33804628" sideWeight="0.5159575" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38031915" sideWeight="0.5143885" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33804628" sideWeight="0.48404256" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24911347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33817703" sideWeight="0.5127119" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43305084" sideWeight="0.5143885" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33817703" sideWeight="0.48728815" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24915254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch1_statistics/examples.clj</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3390">
+          <caret line="226" column="0" lean-forward="false" selection-start-line="226" selection-start-column="0" selection-end-line="236" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3330">
+          <caret line="222" column="21" lean-forward="true" selection-start-line="222" selection-start-column="21" selection-end-line="222" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="207" column="20" lean-forward="false" selection-start-line="207" selection-start-column="20" selection-end-line="207" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="193" column="20" lean-forward="true" selection-start-line="193" selection-start-column="20" selection-end-line="193" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="185" column="20" lean-forward="true" selection-start-line="185" selection-start-column="20" selection-end-line="185" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="150" column="30" lean-forward="true" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="17" lean-forward="true" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" column="28" lean-forward="true" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="22" lean-forward="false" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="22" lean-forward="true" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="17" lean-forward="true" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/data.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_statistics/examples.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="380" column="0" lean-forward="true" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ch1-statistics</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Leiningen: cider/cider-nrepl:0.12.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
